@@ -1,0 +1,17 @@
+﻿Drink,Alcohol Content,Sugar Content (g/100g),Calories (100g),Caffiene Content (mg/100g)
+Coffee,0,0,1,40
+Tea,0,0,1,11
+Hot Chocolate,0,10,77,2
+Stout,4.2,5.8,37,0
+Beer,5,0,41,0
+Light Beer,4.7,0.3,29,0
+Coca Cola,0,10.6,43,10
+Coca Cola Zero,0,0,0,10
+Lemonade,0,10,40,0
+Red Bull,0,10,45,30
+Water,0,0,0,0
+Vodka,40,0,231,0
+Wiskey,40,0.1,250,0
+Rum,47,0,231,0
+Milk,0,5,42,0
+Gravy,0,0.8,79,0
